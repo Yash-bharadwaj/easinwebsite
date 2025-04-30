@@ -1,0 +1,81 @@
+{
+  "name": "Premium Twin Room",
+  "description": "Experience the perfect blend of comfort and luxury in our Premium Twin Room. This spacious accommodation features two premium twin beds, modern amenities, and elegant décor. Ideal for families or friends traveling together, the room offers ample space to relax and unwind. Enjoy the city views, premium bedding, and all the modern conveniences you need for a comfortable stay.",
+  "price": {
+    "amount": "₹9,500",
+    "period": "per night"
+  },
+  "features": [
+    "Two Premium Twin Beds",
+    "38 sq m / 409 sq ft",
+    "City View",
+    "Maximum 2 Adults",
+    "Premium Bedding",
+    "Modern Décor",
+    "Spacious Layout",
+    "Comfortable Seating Area"
+  ],
+  "amenities": {
+    "title": "Room Amenities",
+    "items": [
+      {
+        "category": "Entertainment",
+        "items": [
+          "55-inch LED Smart TV",
+          "High-speed Wi-Fi",
+          "Cable channels"
+        ]
+      },
+      {
+        "category": "Comfort",
+        "items": [
+          "Premium twin beds",
+          "Individual climate control",
+          "Blackout curtains",
+          "Comfortable seating area"
+        ]
+      },
+      {
+        "category": "Bathroom",
+        "items": [
+          "En-suite bathroom",
+          "Rainfall shower",
+          "Premium toiletries",
+          "Hair dryer",
+          "Bathrobes"
+        ]
+      },
+      {
+        "category": "Convenience",
+        "items": [
+          "Mini refrigerator",
+          "Coffee/tea maker",
+          "In-room safe",
+          "Work desk",
+          "Direct dial telephone"
+        ]
+      }
+    ]
+  },
+  "suitableFor": {
+    "title": "Perfect For",
+    "items": [
+      {
+        "icon": "family",
+        "title": "Families",
+        "description": "Spacious layout with twin beds, perfect for families traveling together."
+      },
+      {
+        "icon": "friends",
+        "title": "Friends",
+        "description": "Ideal for friends sharing a room with comfortable twin beds."
+      },
+      {
+        "icon": "business",
+        "title": "Business Travelers",
+        "description": "Work desk and high-speed internet for business needs."
+      }
+    ]
+  },
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+} 

@@ -1,0 +1,128 @@
+{
+  "id": "junior-suite-king",
+  "name": "Junior Suite King",
+  "description": "Our Junior Suites offer a sophisticated retreat with a spacious bedroom and separate sitting area. These elegantly appointed suites feature premium furnishings, enhanced amenities, and thoughtful touches that create a luxurious and comfortable environment. Perfect for travelers seeking additional space and comfort, our Junior Suites provide a truly refined experience during your stay in Hyderabad.",
+  "size": "46 sq m / 495 sq ft",
+  "occupancy": "Maximum 2 Adults",
+  "bedType": "King Bed",
+  "view": "City View or Pool View",
+  "price": {
+    "amount": "₹12,000",
+    "period": "per night",
+    "tax": "plus taxes and fees"
+  },
+  "images": [
+    {
+      "src": "junior-suite-1.jpg",
+      "alt": "Junior Suite - Bedroom Area"
+    },
+    {
+      "src": "junior-suite-2.jpg",
+      "alt": "Junior Suite - Sitting Area"
+    },
+    {
+      "src": "junior-suite-3.jpg",
+      "alt": "Junior Suite - Bathroom"
+    },
+    {
+      "src": "junior-suite-4.jpg",
+      "alt": "Junior Suite - Work Desk"
+    },
+    {
+      "src": "junior-suite-5.jpg",
+      "alt": "Junior Suite - View"
+    }
+  ],
+  "features": [
+    "Luxurious King Bed with Premium Linens",
+    "Separate Sitting Area with Sofa",
+    "46-inch LED Smart TV with Enhanced Cable/Satellite Channels",
+    "High-Speed Wi-Fi Internet Access",
+    "Spacious Work Desk with Ergonomic Chair",
+    "Electronic Safe (Laptop Compatible)",
+    "Individual Climate Control",
+    "Premium Tea and Coffee Making Facilities",
+    "Mini Refrigerator with Complimentary Beverages",
+    "Luxury Toiletries",
+    "Bathtub and Separate Rainfall Shower",
+    "Hair Dryer",
+    "Iron and Ironing Board",
+    "24-Hour Room Service",
+    "Daily Housekeeping",
+    "Evening Turndown Service",
+    "Bathrobe and Slippers"
+  ],
+  "amenities": {
+    "bathroom": [
+      "Bathtub and Separate Rainfall Shower",
+      "Luxury Toiletries",
+      "Hair Dryer",
+      "Premium Bathrobes and Slippers",
+      "Magnifying Mirror"
+    ],
+    "entertainment": [
+      "46-inch LED Smart TV",
+      "Enhanced Cable/Satellite Channels",
+      "High-Speed Wi-Fi",
+      "Bluetooth Speaker"
+    ],
+    "comfort": [
+      "Luxury King Bed",
+      "Separate Sitting Area with Comfortable Sofa",
+      "Individual Climate Control",
+      "Blackout Curtains",
+      "Soundproofed Rooms",
+      "Premium Pillows and Duvet"
+    ],
+    "convenience": [
+      "Spacious Work Desk with Ergonomic Chair",
+      "Electronic Safe",
+      "Direct Dial Telephone",
+      "Premium Tea and Coffee Making Facilities",
+      "Espresso Machine",
+      "Mini Refrigerator with Complimentary Beverages",
+      "24-Hour Room Service",
+      "Priority Check-in/Check-out"
+    ]
+  },
+  "suitableFor": [
+    {
+      "type": "Business Executives",
+      "reasons": [
+        "Separate sitting area for small meetings",
+        "Enhanced workspace for productivity",
+        "Extra space to relax after a busy day",
+        "Premium amenities for comfort during business trips"
+      ]
+    },
+    {
+      "type": "Couples",
+      "reasons": [
+        "Spacious and luxurious accommodations",
+        "Separate areas for relaxation and sleeping",
+        "Premium touches for a romantic getaway",
+        "Enhanced amenities for a special occasion"
+      ]
+    },
+    {
+      "type": "Long-Stay Guests",
+      "reasons": [
+        "Additional living space for extended comfort",
+        "Separate areas for different activities",
+        "Enhanced amenities for daily living",
+        "More storage space for personal items"
+      ]
+    },
+    {
+      "type": "Leisure Travelers",
+      "reasons": [
+        "Extra space to relax and enjoy",
+        "Premium experience with enhanced amenities",
+        "Comfortable environment for vacation relaxation",
+        "Perfect balance of luxury and comfort"
+      ]
+    }
+  ],
+  "floorPlan": "junior-suite-floor-plan.jpg",
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+}

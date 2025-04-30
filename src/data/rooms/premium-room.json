@@ -1,0 +1,119 @@
+{
+  "id": "premium-room",
+  "name": "Premium Room",
+  "description": "Our Premium Rooms offer an enhanced experience with additional space and upgraded amenities. Featuring your choice of a king-sized bed or twin beds, these rooms are designed with sophisticated décor and premium furnishings to ensure the utmost comfort during your stay in Hyderabad. Enjoy extra touches of luxury in these meticulously appointed accommodations.",
+  "size": "38 sq m / 409 sq ft",
+  "occupancy": "Maximum 2 Adults",
+  "bedType": "King Bed or Twin Beds (upon request)",
+  "view": "City View",
+  "price": {
+    "amount": "₹9,500",
+    "period": "per night",
+    "tax": "plus taxes and fees"
+  },
+  "images": [
+    {
+      "src": "premium-room-1.jpg",
+      "alt": "Premium Room - Bedroom View"
+    },
+    {
+      "src": "premium-room-2.jpg",
+      "alt": "Premium Room - Bathroom"
+    },
+    {
+      "src": "premium-room-3.jpg",
+      "alt": "Premium Room - Seating Area"
+    },
+    {
+      "src": "premium-room-4.jpg",
+      "alt": "Premium Room - Work Desk"
+    },
+    {
+      "src": "premium-room-5.jpg",
+      "alt": "Premium Room - Window View"
+    }
+  ],
+  "features": [
+    "King Bed or Twin Beds with Premium Linens",
+    "40-inch LED Smart TV with Cable/Satellite Channels",
+    "High-Speed Wi-Fi Internet Access",
+    "Spacious Work Desk with Ergonomic Chair",
+    "Comfortable Seating Area",
+    "Electronic Safe (Laptop Compatible)",
+    "Individual Climate Control",
+    "Premium Tea and Coffee Making Facilities",
+    "Mini Refrigerator with Complimentary Water",
+    "Luxury Toiletries",
+    "Hair Dryer",
+    "Iron and Ironing Board",
+    "24-Hour Room Service",
+    "Daily Housekeeping",
+    "Turndown Service"
+  ],
+  "amenities": {
+    "bathroom": [
+      "Walk-in Rainfall Shower",
+      "Luxury Toiletries",
+      "Hair Dryer",
+      "Premium Bathrobes and Slippers"
+    ],
+    "entertainment": [
+      "40-inch LED Smart TV",
+      "Enhanced Cable/Satellite Channels",
+      "High-Speed Wi-Fi"
+    ],
+    "comfort": [
+      "Premium King Bed or Twin Beds",
+      "Individual Climate Control",
+      "Blackout Curtains",
+      "Soundproofed Rooms",
+      "Additional Pillows and Blankets"
+    ],
+    "convenience": [
+      "Spacious Work Desk with Ergonomic Chair",
+      "Small Seating Area",
+      "Electronic Safe",
+      "Direct Dial Telephone",
+      "Premium Tea and Coffee Making Facilities",
+      "Mini Refrigerator",
+      "24-Hour Room Service",
+      "Express Check-in/Check-out Option"
+    ]
+  },
+  "suitableFor": [
+    {
+      "type": "Business Travelers",
+      "reasons": [
+        "Enhanced workspace with ergonomic furniture",
+        "Additional space for small meetings",
+        "Premium amenities for added comfort during business trips"
+      ]
+    },
+    {
+      "type": "Couples",
+      "reasons": [
+        "Spacious and elegant accommodations",
+        "Additional comfort for a romantic getaway",
+        "Premium touches for a special stay"
+      ]
+    },
+    {
+      "type": "Leisure Travelers",
+      "reasons": [
+        "Extra space to relax and unwind",
+        "Enhanced amenities for a more enjoyable stay",
+        "Convenient location for exploring Hyderabad"
+      ]
+    },
+    {
+      "type": "Extended Stay Guests",
+      "reasons": [
+        "Additional space and comfort for longer stays",
+        "Extra amenities to enhance daily living",
+        "More storage space for personal items"
+      ]
+    }
+  ],
+  "floorPlan": "premium-room-floor-plan.jpg",
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+}

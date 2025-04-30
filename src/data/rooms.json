@@ -1,0 +1,183 @@
+{
+  "hero": {
+    "title": "Luxurious Accommodations",
+    "subtitle": "Discover comfort and elegance in our thoughtfully designed rooms and suites",
+    "image": "rooms-hero.jpg"
+  },
+  "intro": {
+    "title": "Find Your Perfect Stay",
+    "content": "At Eastin Hotel Madhapur, we offer a variety of room and suite options to cater to your specific needs. Each accommodation is thoughtfully designed with premium furnishings, modern amenities, and sophisticated décor to ensure a memorable stay. Whether you're traveling for business or leisure, our rooms provide the perfect balance of comfort, functionality, and luxury."
+  },
+  "rooms": [
+    {
+      "id": "superior-twin",
+      "name": "Superior Twin Room",
+      "shortDescription": "Elegant and comfortable room featuring two twin beds, perfect for friends or colleagues.",
+      "thumbnail": "superior-twin-thumb.jpg",
+      "features": [
+        "Twin Beds",
+        "32 sq m / 344 sq ft",
+        "City View",
+        "Maximum 2 Adults"
+      ],
+      "startingPrice": "₹7,500",
+      "url": "/rooms/superior-twin"
+    },
+    {
+      "id": "superior-king",
+      "name": "Superior King Room",
+      "shortDescription": "Spacious room with a luxurious king-sized bed, ideal for couples or solo travelers seeking extra comfort.",
+      "thumbnail": "superior-king-thumb.jpg",
+      "features": [
+        "King Bed",
+        "32 sq m / 344 sq ft",
+        "City View",
+        "Maximum 2 Adults"
+      ],
+      "startingPrice": "₹8,000",
+      "url": "/rooms/superior-king"
+    },
+    {
+      "id": "premium-room",
+      "name": "Premium Room",
+      "shortDescription": "Enhanced room offering additional space and upgraded amenities for a truly comfortable stay.",
+      "thumbnail": "premium-room-thumb.jpg",
+      "features": [
+        "King or Twin Beds",
+        "38 sq m / 409 sq ft",
+        "City View",
+        "Maximum 2 Adults"
+      ],
+      "startingPrice": "₹9,500",
+      "url": "/rooms/premium-room"
+    },
+    {
+      "id": "premium-twin",
+      "name": "Premium Twin Room",
+      "shortDescription": "Luxurious twin room with premium amenities and extra space, perfect for families or sharing.",
+      "thumbnail": "premium-twin-thumb.jpg",
+      "features": [
+        "Twin Beds",
+        "38 sq m / 409 sq ft",
+        "City View",
+        "Maximum 2 Adults"
+      ],
+      "startingPrice": "₹9,500",
+      "url": "/rooms/premium-twin"
+    },
+    {
+      "id": "junior-suite-king",
+      "name": "Junior Suite King",
+      "shortDescription": "Sophisticated suite featuring a bedroom and small sitting area, offering additional space to relax.",
+      "thumbnail": "junior-suite-king-thumb.jpg",
+      "features": [
+        "King Bed",
+        "46 sq m / 495 sq ft",
+        "City or Pool View",
+        "Separate Sitting Area",
+        "Maximum 2 Adults"
+      ],
+      "startingPrice": "₹12,000",
+      "url": "/rooms/junior-suite-king"
+    },
+    {
+      "id": "executive-suite",
+      "name": "Executive Suite",
+      "shortDescription": "Luxurious suite with separate bedroom and living room, perfect for extended stays or those seeking ultimate comfort.",
+      "thumbnail": "executive-suite-thumb.jpg",
+      "features": [
+        "King Bed",
+        "60 sq m / 646 sq ft",
+        "Premium City View",
+        "Separate Living Room",
+        "Maximum 2 Adults"
+      ],
+      "startingPrice": "₹15,000",
+      "url": "/rooms/executive-suite"
+    }
+  ],
+  "amenities": {
+    "title": "Standard Room Amenities",
+    "items": [
+      {
+        "icon": "wifi",
+        "name": "High-Speed Wi-Fi"
+      },
+      {
+        "icon": "tv",
+        "name": "LED Smart TV"
+      },
+      {
+        "icon": "temperature-low",
+        "name": "Individual Climate Control"
+      },
+      {
+        "icon": "bath",
+        "name": "Premium Toiletries"
+      },
+      {
+        "icon": "coffee",
+        "name": "Tea/Coffee Maker"
+      },
+      {
+        "icon": "concierge-bell",
+        "name": "24-Hour Room Service"
+      },
+      {
+        "icon": "lock",
+        "name": "In-Room Safe"
+      },
+      {
+        "icon": "phone",
+        "name": "Direct Dial Telephone"
+      },
+      {
+        "icon": "snowflake",
+        "name": "Mini Refrigerator"
+      },
+      {
+        "icon": "briefcase",
+        "name": "Work Desk"
+      },
+      {
+        "icon": "tshirt",
+        "name": "Laundry Service"
+      },
+      {
+        "icon": "bath",
+        "name": "Rainfall Shower"
+      }
+    ]
+  },
+  "policies": {
+    "title": "Room Policies",
+    "items": [
+      {
+        "icon": "clock",
+        "title": "Check-in & Check-out",
+        "content": "Check-in: 1:00 PM\nCheck-out: 11:00 PM"
+      },
+      {
+        "icon": "child",
+        "title": "Children Policy",
+        "content": "Children under 12 years stay free when using existing bedding. Cribs available upon request."
+      },
+      {
+        "icon": "paw",
+        "title": "Pet Policy",
+        "content": "We regret that pets are not allowed, with the exception of service animals."
+      },
+      {
+        "icon": "smoking-ban",
+        "title": "Smoking Policy",
+        "content": "All rooms and suites are non-smoking. Designated smoking areas are available."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Experience Luxury?",
+    "content": "Book directly with us for the best rates and exclusive benefits",
+    "buttonText": "Book Now",
+    "buttonUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+  }
+}

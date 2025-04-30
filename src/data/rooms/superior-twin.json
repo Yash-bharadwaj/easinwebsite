@@ -1,0 +1,102 @@
+{
+  "id": "superior-twin",
+  "name": "Superior Twin Room",
+  "description": "Our Superior Twin rooms offer elegant accommodations with comfortable twin beds, making them ideal for friends or colleagues traveling together. These well-appointed rooms feature modern décor, premium amenities, and all the essentials needed for a comfortable and productive stay in Hyderabad.",
+  "size": "32 sq m / 344 sq ft",
+  "occupancy": "Maximum 2 Adults",
+  "bedType": "Two Twin Beds",
+  "view": "City View",
+  "price": {
+    "amount": "₹7,500",
+    "period": "per night",
+    "tax": "plus taxes and fees"
+  },
+  "images": [
+    {
+      "src": "superior-twin-1.jpg",
+      "alt": "Superior Twin Room - Bedroom View"
+    },
+    {
+      "src": "superior-twin-2.jpg",
+      "alt": "Superior Twin Room - Bathroom"
+    },
+    {
+      "src": "superior-twin-3.jpg",
+      "alt": "Superior Twin Room - Work Desk"
+    },
+    {
+      "src": "superior-twin-4.jpg",
+      "alt": "Superior Twin Room - Window View"
+    }
+  ],
+  "features": [
+    "Two Premium Twin Beds with Luxury Linens",
+    "32-inch LED Smart TV with Cable/Satellite Channels",
+    "High-Speed Wi-Fi Internet Access",
+    "Work Desk with Ergonomic Chair",
+    "Electronic Safe (Laptop Compatible)",
+    "Individual Climate Control",
+    "Tea and Coffee Making Facilities",
+    "Mini Refrigerator",
+    "Premium Toiletries",
+    "Hair Dryer",
+    "Iron and Ironing Board (on request)",
+    "24-Hour Room Service",
+    "Daily Housekeeping"
+  ],
+  "amenities": {
+    "bathroom": [
+      "Walk-in Rainfall Shower",
+      "Premium Toiletries",
+      "Hair Dryer",
+      "Plush Bathrobes and Slippers"
+    ],
+    "entertainment": [
+      "32-inch LED Smart TV",
+      "Cable/Satellite Channels",
+      "High-Speed Wi-Fi"
+    ],
+    "comfort": [
+      "Premium Twin Beds",
+      "Individual Climate Control",
+      "Blackout Curtains",
+      "Soundproofed Rooms"
+    ],
+    "convenience": [
+      "Work Desk with Ergonomic Chair",
+      "Electronic Safe",
+      "Direct Dial Telephone",
+      "Tea and Coffee Making Facilities",
+      "Mini Refrigerator",
+      "24-Hour Room Service"
+    ]
+  },
+  "suitableFor": [
+    {
+      "type": "Friends Traveling Together",
+      "reasons": [
+        "Comfortable twin beds for individual sleeping",
+        "Ample space for luggage and personal items",
+        "Efficient workspace for both guests"
+      ]
+    },
+    {
+      "type": "Business Travelers",
+      "reasons": [
+        "Dedicated work desk with ergonomic chair",
+        "High-speed internet for productivity",
+        "Convenient location near HITEC City"
+      ]
+    },
+    {
+      "type": "Solo Travelers",
+      "reasons": [
+        "Comfortable and secure accommodations",
+        "All essential amenities for a pleasant stay",
+        "Access to hotel's dining and recreational facilities"
+      ]
+    }
+  ],
+  "floorPlan": "superior-twin-floor-plan.jpg",
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+}

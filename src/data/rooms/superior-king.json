@@ -1,0 +1,102 @@
+{
+  "id": "superior-king",
+  "name": "Superior King Room",
+  "description": "Our Superior King rooms offer a perfect blend of luxury and comfort, featuring a plush king-sized bed and elegant décor. Designed with both business and leisure travelers in mind, these rooms provide a spacious and relaxing environment with premium amenities and tasteful furnishings for a truly comfortable stay.",
+  "size": "32 sq m / 344 sq ft",
+  "occupancy": "Maximum 2 Adults",
+  "bedType": "King Bed",
+  "view": "City View",
+  "price": {
+    "amount": "₹8,000",
+    "period": "per night",
+    "tax": "plus taxes and fees"
+  },
+  "images": [
+    {
+      "src": "superior-king-1.jpg",
+      "alt": "Superior King Room - Bedroom View"
+    },
+    {
+      "src": "superior-king-2.jpg",
+      "alt": "Superior King Room - Bathroom"
+    },
+    {
+      "src": "superior-king-3.jpg",
+      "alt": "Superior King Room - Work Area"
+    },
+    {
+      "src": "superior-king-4.jpg",
+      "alt": "Superior King Room - Window View"
+    }
+  ],
+  "features": [
+    "Luxurious King Bed with Premium Linens",
+    "32-inch LED Smart TV with Cable/Satellite Channels",
+    "High-Speed Wi-Fi Internet Access",
+    "Work Desk with Ergonomic Chair",
+    "Electronic Safe (Laptop Compatible)",
+    "Individual Climate Control",
+    "Tea and Coffee Making Facilities",
+    "Mini Refrigerator",
+    "Premium Toiletries",
+    "Hair Dryer",
+    "Iron and Ironing Board (on request)",
+    "24-Hour Room Service",
+    "Daily Housekeeping"
+  ],
+  "amenities": {
+    "bathroom": [
+      "Walk-in Rainfall Shower",
+      "Premium Toiletries",
+      "Hair Dryer",
+      "Plush Bathrobes and Slippers"
+    ],
+    "entertainment": [
+      "32-inch LED Smart TV",
+      "Cable/Satellite Channels",
+      "High-Speed Wi-Fi"
+    ],
+    "comfort": [
+      "Luxury King Bed",
+      "Individual Climate Control",
+      "Blackout Curtains",
+      "Soundproofed Rooms"
+    ],
+    "convenience": [
+      "Work Desk with Ergonomic Chair",
+      "Electronic Safe",
+      "Direct Dial Telephone",
+      "Tea and Coffee Making Facilities",
+      "Mini Refrigerator",
+      "24-Hour Room Service"
+    ]
+  },
+  "suitableFor": [
+    {
+      "type": "Couples",
+      "reasons": [
+        "Spacious king bed for a comfortable stay",
+        "Elegant ambiance for a romantic getaway",
+        "Access to hotel's dining and recreational facilities"
+      ]
+    },
+    {
+      "type": "Business Travelers",
+      "reasons": [
+        "Comfortable workspace for productivity",
+        "High-speed internet connectivity",
+        "Strategic location near business districts"
+      ]
+    },
+    {
+      "type": "Solo Travelers",
+      "reasons": [
+        "Extra space and comfort with a king bed",
+        "All essential amenities for a pleasant stay",
+        "Secure and convenient accommodations"
+      ]
+    }
+  ],
+  "floorPlan": "superior-king-floor-plan.jpg",
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+}

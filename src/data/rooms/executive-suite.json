@@ -1,0 +1,153 @@
+{
+  "id": "executive-suite",
+  "name": "Executive Suite",
+  "description": "Our Executive Suites represent the pinnacle of luxury at Eastin Hotel Madhapur. These sophisticated accommodations feature a spacious bedroom and separate living room, offering the perfect balance of space, privacy, and elegance. Meticulously designed with premium furnishings, upscale amenities, and thoughtful extras, our Executive Suites provide a truly exceptional experience for discerning travelers seeking the ultimate in comfort and luxury during their stay in Hyderabad.",
+  "size": "60 sq m / 646 sq ft",
+  "occupancy": "Maximum 2 Adults",
+  "bedType": "King Bed",
+  "view": "Premium City View",
+  "price": {
+    "amount": "₹15,000",
+    "period": "per night",
+    "tax": "plus taxes and fees"
+  },
+  "images": [
+    {
+      "src": "executive-suite-1.jpg",
+      "alt": "Executive Suite - Bedroom Area"
+    },
+    {
+      "src": "executive-suite-2.jpg",
+      "alt": "Executive Suite - Living Room"
+    },
+    {
+      "src": "executive-suite-3.jpg",
+      "alt": "Executive Suite - Bathroom"
+    },
+    {
+      "src": "executive-suite-4.jpg",
+      "alt": "Executive Suite - Dining Area"
+    },
+    {
+      "src": "executive-suite-5.jpg",
+      "alt": "Executive Suite - Work Desk"
+    },
+    {
+      "src": "executive-suite-6.jpg",
+      "alt": "Executive Suite - View"
+    }
+  ],
+  "features": [
+    "Luxurious King Bed with Premium Linens",
+    "Separate Living Room with Elegant Furnishings",
+    "Small Dining Area",
+    "Two 50-inch LED Smart TVs",
+    "Surround Sound System",
+    "High-Speed Wi-Fi Internet Access",
+    "Spacious Work Desk with Ergonomic Chair",
+    "Electronic Safe (Laptop Compatible)",
+    "Individual Climate Control",
+    "Premium Tea and Coffee Making Facilities",
+    "Espresso Machine",
+    "Mini Refrigerator with Complimentary Beverages",
+    "Luxury Bathroom with Soaking Tub and Separate Rainfall Shower",
+    "Designer Toiletries",
+    "Hair Dryer",
+    "Iron and Ironing Board",
+    "24-Hour Room Service",
+    "Daily Housekeeping",
+    "Evening Turndown Service with Special Amenities",
+    "Premium Bathrobes and Slippers",
+    "Complimentary Pressing of Two Garments per Stay",
+    "Welcome Fruit Basket and Chocolates"
+  ],
+  "amenities": {
+    "bathroom": [
+      "Luxury Bathroom with Soaking Tub",
+      "Separate Rainfall Shower",
+      "Designer Toiletries",
+      "Hair Dryer",
+      "Premium Bathrobes and Slippers",
+      "Magnifying Mirror",
+      "Bathroom Scale"
+    ],
+    "entertainment": [
+      "Two 50-inch LED Smart TVs",
+      "Surround Sound System",
+      "Enhanced Cable/Satellite Channels",
+      "High-Speed Wi-Fi",
+      "Bluetooth Speaker"
+    ],
+    "comfort": [
+      "Luxury King Bed with Premium Bedding",
+      "Separate Living Room with Comfortable Seating",
+      "Individual Climate Control",
+      "Blackout Curtains",
+      "Soundproofed Rooms",
+      "Premium Pillows Menu",
+      "Premium Duvet and Linens"
+    ],
+    "convenience": [
+      "Separate Living and Sleeping Areas",
+      "Small Dining Area",
+      "Spacious Work Desk with Ergonomic Chair",
+      "Electronic Safe",
+      "Direct Dial Telephone",
+      "Premium Tea and Coffee Making Facilities",
+      "Espresso Machine",
+      "Mini Refrigerator with Complimentary Beverages",
+      "24-Hour Room Service",
+      "Priority Check-in/Check-out",
+      "Complimentary Pressing of Two Garments per Stay",
+      "Executive Floor Benefits"
+    ]
+  },
+  "suitableFor": [
+    {
+      "type": "Business Executives",
+      "reasons": [
+        "Separate living area for hosting small meetings",
+        "Premium workspace for productivity",
+        "Enhanced privacy and space",
+        "Executive-level amenities for ultimate comfort"
+      ]
+    },
+    {
+      "type": "Couples on Special Occasions",
+      "reasons": [
+        "Luxurious and romantic setting",
+        "Separate areas for relaxation and sleeping",
+        "Premium touches for celebrating special moments",
+        "Extra space for in-room dining"
+      ]
+    },
+    {
+      "type": "VIP Guests",
+      "reasons": [
+        "Premium accommodations with enhanced privacy",
+        "Sophisticated environment with luxury amenities",
+        "Space to entertain guests",
+        "High-end finishes and special touches"
+      ]
+    },
+    {
+      "type": "Extended Stay Guests",
+      "reasons": [
+        "Apartment-like comfort with hotel services",
+        "Separate living and sleeping areas",
+        "Enhanced amenities for comfortable daily living",
+        "Space to work, relax, and entertain"
+      ]
+    }
+  ],
+  "specialBenefits": [
+    "Exclusive access to Executive Lounge (if available)",
+    "Complimentary breakfast",
+    "Evening cocktails and canapés",
+    "Dedicated concierge service",
+    "Complimentary pressing of two garments per stay",
+    "Late check-out until 2:00 PM (subject to availability)"
+  ],
+  "floorPlan": "executive-suite-floor-plan.jpg",
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+}

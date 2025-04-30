@@ -1,0 +1,174 @@
+{
+  "hero": {
+    "title": "Our Story",
+    "subtitle": "Discover the essence of Eastin Hotel Madhapur",
+    "image": "about-hero.jpg"
+  },
+  "story": {
+    "title": "A Legacy of Luxury and Hospitality",
+    "content": [
+      "Established in 2022 with a vision to redefine luxury hospitality in Hyderabad, Eastin Hotel Madhapur has quickly become a prestigious destination for discerning travelers. Our journey began with a simple yet profound commitment: to create a sanctuary where guests experience the perfect harmony of opulence and comfort.",
+      "Located in the heart of Hyderabad's thriving IT corridor, our hotel stands as a testament to architectural elegance and thoughtful design. Every aspect of Eastin Hotel has been meticulously crafted to offer an environment where business efficiency meets relaxation, and where traditional hospitality embraces modern luxury.",
+      "We take pride in our attention to detail – from the carefully selected artwork adorning our walls to the premium amenities in each room. Every element has been chosen to enhance the guest experience and create memorable stays."
+    ],
+    "image": "about-story.jpg",
+    "imageAlt": "Eastin Hotel Madhapur Exterior"
+  },
+  "facilities": {
+    "title": "Our Facilities",
+    "subtitle": "Designed for comfort, convenience, and memorable experiences",
+    "items": [
+      {
+        "title": "96 Luxury Rooms",
+        "description": "Our hotel features 96 elegantly appointed rooms and suites, each designed with your comfort in mind.",
+        "icon": "bed"
+      },
+      {
+        "title": "Indoor Banquet Hall",
+        "description": "A sophisticated venue accommodating up to 150 guests, perfect for corporate events and celebrations.",
+        "icon": "glass-cheers"
+      },
+      {
+        "title": "Executive Boardroom",
+        "description": "A state-of-the-art boardroom equipped with modern technology for meetings of up to 30 people.",
+        "icon": "briefcase"
+      },
+      {
+        "title": "Open-Air Banquet Space",
+        "description": "A stunning outdoor venue that can host up to 300 guests for weddings and grand celebrations.",
+        "icon": "umbrella-beach"
+      },
+      {
+        "title": "Rooftop Party Space",
+        "description": "An exclusive private party area with panoramic city views, ideal for intimate gatherings.",
+        "icon": "building"
+      }
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "content": "To consistently deliver exceptional experiences by combining luxurious accommodations, impeccable service, and thoughtful amenities that exceed the expectations of our guests. We strive to be the preferred choice for both business and leisure travelers visiting Hyderabad, creating lasting memories through personalized hospitality.",
+    "image": "mission.jpg",
+    "imageAlt": "Eastin Hotel Staff"
+  },
+  "values": {
+    "title": "Our Core Values",
+    "items": [
+      {
+        "icon": "star",
+        "title": "Excellence",
+        "description": "We pursue excellence in every detail, from room cleanliness to guest interactions."
+      },
+      {
+        "icon": "handshake",
+        "title": "Integrity",
+        "description": "We conduct our business with honesty, transparency, and ethical standards."
+      },
+      {
+        "icon": "users",
+        "title": "Teamwork",
+        "description": "We believe in collaborative effort to create seamless experiences for our guests."
+      },
+      {
+        "icon": "lightbulb",
+        "title": "Innovation",
+        "description": "We constantly evolve and innovate to enhance guest comfort and satisfaction."
+      },
+      {
+        "icon": "heart",
+        "title": "Passion",
+        "description": "We are passionate about hospitality and creating memorable guest experiences."
+      },
+      {
+        "icon": "leaf",
+        "title": "Sustainability",
+        "description": "We are committed to environmentally sustainable practices in our operations."
+      }
+    ]
+  },
+  "stats": {
+    "title": "Eastin By The Numbers",
+    "items": [
+      {
+        "number": "2022",
+        "label": "Year Founded",
+        "icon": "calendar-alt"
+      },
+      {
+        "number": "96",
+        "label": "Luxury Rooms",
+        "icon": "door-open"
+      },
+      {
+        "number": "4",
+        "label": "Event Spaces",
+        "icon": "map-marker-alt"
+      },
+      {
+        "number": "450+",
+        "label": "Events Hosted",
+        "icon": "glass-cheers"
+      },
+      {
+        "number": "24/7",
+        "label": "Guest Service",
+        "icon": "concierge-bell"
+      }
+    ]
+  },
+  "team": {
+    "title": "Leadership Team",
+    "subtitle": "Meet the people behind Eastin Hotel's exceptional service",
+    "members": [
+      {
+        "name": "Arun Kapoor",
+        "position": "General Manager",
+        "image": "team-1.jpg",
+        "bio": "With over 20 years of experience in luxury hospitality, Arun brings exceptional leadership and vision to Eastin Hotel. His commitment to excellence ensures that every guest receives world-class service."
+      },
+      {
+        "name": "Priya Sharma",
+        "position": "Director of Operations",
+        "image": "team-2.jpg",
+        "bio": "Priya oversees the day-to-day operations of the hotel, ensuring that every department functions seamlessly to deliver on our promise of luxury and comfort."
+      },
+      {
+        "name": "Rajiv Mehta",
+        "position": "Executive Chef",
+        "image": "team-3.jpg",
+        "bio": "Chef Rajiv brings culinary excellence to Eastin Hotel with his innovative approach to both international cuisine and authentic Indian flavors."
+      }
+    ]
+  },
+  "achievements": {
+    "title": "Recognition & Awards",
+    "items": [
+      {
+        "year": "2023",
+        "award": "Best Business Hotel in Hyderabad - Travel & Leisure India",
+        "icon": "trophy"
+      },
+      {
+        "year": "2022",
+        "award": "Certificate of Excellence - TripAdvisor",
+        "icon": "certificate"
+      },
+      {
+        "year": "2021",
+        "award": "Top 10 Luxury Hotels in South India - Hospitality Excellence Awards",
+        "icon": "award"
+      }
+    ]
+  },
+  "testimonial": {
+    "quote": "Eastin Hotel represents the perfect blend of modern luxury and traditional Indian hospitality. Since our founding in 2022, we've been dedicated to creating exceptional experiences for every guest who walks through our doors.",
+    "author": "Arun Kapoor",
+    "position": "General Manager"
+  },
+  "cta": {
+    "title": "Experience Our Hospitality",
+    "content": "We invite you to discover the Eastin difference – where every stay becomes a cherished memory.",
+    "buttonText": "Book Your Stay",
+    "buttonUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "hero": {
+    "title": "Our Photo Gallery",
+    "subtitle": "Explore our elegant spaces and luxurious accommodations through our carefully curated photo gallery",
+    "image": "lobby.jpg"
+  },
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "images": [
+        {
+          "src": "lobby.jpg",
+          "alt": "Hotel Lobby",
+          "caption": "Elegant Hotel Lobby"
+        },
+        {
+          "src": "superior-king-1.jpg",
+          "alt": "Superior King Room - Main View",
+          "caption": "Superior King Room"
+        },
+        {
+          "src": "superior-king-2.jpg",
+          "alt": "Superior King Room - Bathroom",
+          "caption": "Superior King Room - Bathroom"
+        },
+        {
+          "src": "superior-king-3.jpg",
+          "alt": "Superior King Room - Work Area",
+          "caption": "Superior King Room - Work Area"
+        },
+        {
+          "src": "superior-king-4.jpg",
+          "alt": "Superior King Room - Details",
+          "caption": "Superior King Room - Details"
+        },
+        {
+          "src": "premium-king-1.jpg",
+          "alt": "Premium King Room - Main View",
+          "caption": "Premium King Room"
+        },
+        {
+          "src": "premium-king-2.jpg",
+          "alt": "Premium King Room - Seating Area",
+          "caption": "Premium King Room - Seating Area"
+        },
+        {
+          "src": "premium-king-3.jpg",
+          "alt": "Premium King Room - Bathroom",
+          "caption": "Premium King Room - Bathroom"
+        },
+        {
+          "src": "premium-king-4.jpg",
+          "alt": "Premium King Room - Details",
+          "caption": "Premium King Room - Details"
+        },
+        {
+          "src": "executive-suite-1.jpg",
+          "alt": "Executive Suite - Main View",
+          "caption": "Executive Suite"
+        },
+        {
+          "src": "executive-suite-2.jpg",
+          "alt": "Executive Suite - Living Area",
+          "caption": "Executive Suite - Living Area"
+        },
+        {
+          "src": "executive-suite-3.jpg",
+          "alt": "Executive Suite - Bathroom",
+          "caption": "Executive Suite - Bathroom"
+        },
+        {
+          "src": "executive-suite-4.jpg",
+          "alt": "Executive Suite - Details",
+          "caption": "Executive Suite - Details"
+        },
+        {
+          "src": "premium-twin-1.jpg",
+          "alt": "Premium Twin Room - Main View",
+          "caption": "Premium Twin Room"
+        },
+        {
+          "src": "premium-twin-2.jpg",
+          "alt": "Premium Twin Room - Seating Area",
+          "caption": "Premium Twin Room - Seating Area"
+        },
+        {
+          "src": "premium-twin-3.jpg",
+          "alt": "Premium Twin Room - Bathroom",
+          "caption": "Premium Twin Room - Bathroom"
+        },
+        {
+          "src": "premium-twin-4.jpg",
+          "alt": "Premium Twin Room - Work Area",
+          "caption": "Premium Twin Room - Work Area"
+        },
+        {
+          "src": "premium-twin-5.jpg",
+          "alt": "Premium Twin Room - Details",
+          "caption": "Premium Twin Room - Details"
+        }
+      ]
+    },
+    {
+      "id": "rooms",
+      "name": "Rooms & Suites",
+      "images": [
+        {
+          "src": "superior-king-1.jpg",
+          "alt": "Superior King Room",
+          "caption": "Superior King Room"
+        },
+        {
+          "src": "premium-king-1.jpg",
+          "alt": "Premium King Room",
+          "caption": "Premium King Room"
+        },
+        {
+          "src": "executive-suite-1.jpg",
+          "alt": "Executive Suite",
+          "caption": "Executive Suite"
+        },
+        {
+          "src": "premium-twin-1.jpg",
+          "alt": "Premium Twin Room",
+          "caption": "Premium Twin Room"
+        }
+      ]
+    },
+    {
+      "id": "superior-king",
+      "name": "Superior King",
+      "images": [
+        {
+          "src": "superior-king-1.jpg",
+          "alt": "Superior King Room - Main View",
+          "caption": "Superior King Room"
+        },
+        {
+          "src": "superior-king-2.jpg",
+          "alt": "Superior King Room - Bathroom",
+          "caption": "Superior King Room - Bathroom"
+        },
+        {
+          "src": "superior-king-3.jpg",
+          "alt": "Superior King Room - Work Area",
+          "caption": "Superior King Room - Work Area"
+        },
+        {
+          "src": "superior-king-4.jpg",
+          "alt": "Superior King Room - Details",
+          "caption": "Superior King Room - Details"
+        }
+      ]
+    },
+    {
+      "id": "premium-king",
+      "name": "Premium King",
+      "images": [
+        {
+          "src": "premium-king-1.jpg",
+          "alt": "Premium King Room - Main View",
+          "caption": "Premium King Room"
+        },
+        {
+          "src": "premium-king-2.jpg",
+          "alt": "Premium King Room - Seating Area",
+          "caption": "Premium King Room - Seating Area"
+        },
+        {
+          "src": "premium-king-3.jpg",
+          "alt": "Premium King Room - Bathroom",
+          "caption": "Premium King Room - Bathroom"
+        },
+        {
+          "src": "premium-king-4.jpg",
+          "alt": "Premium King Room - Details",
+          "caption": "Premium King Room - Details"
+        }
+      ]
+    },
+    {
+      "id": "executive-suite",
+      "name": "Executive Suite",
+      "images": [
+        {
+          "src": "executive-suite-1.jpg",
+          "alt": "Executive Suite - Main View",
+          "caption": "Executive Suite"
+        },
+        {
+          "src": "executive-suite-2.jpg",
+          "alt": "Executive Suite - Living Area",
+          "caption": "Executive Suite - Living Area"
+        },
+        {
+          "src": "executive-suite-3.jpg",
+          "alt": "Executive Suite - Bathroom",
+          "caption": "Executive Suite - Bathroom"
+        },
+        {
+          "src": "executive-suite-4.jpg",
+          "alt": "Executive Suite - Details",
+          "caption": "Executive Suite - Details"
+        }
+      ]
+    },
+    {
+      "id": "premium-twin",
+      "name": "Premium Twin",
+      "images": [
+        {
+          "src": "premium-twin-1.jpg",
+          "alt": "Premium Twin Room - Main View",
+          "caption": "Premium Twin Room"
+        },
+        {
+          "src": "premium-twin-2.jpg",
+          "alt": "Premium Twin Room - Seating Area",
+          "caption": "Premium Twin Room - Seating Area"
+        },
+        {
+          "src": "premium-twin-3.jpg",
+          "alt": "Premium Twin Room - Bathroom",
+          "caption": "Premium Twin Room - Bathroom"
+        },
+        {
+          "src": "premium-twin-4.jpg",
+          "alt": "Premium Twin Room - Work Area",
+          "caption": "Premium Twin Room - Work Area"
+        },
+        {
+          "src": "premium-twin-5.jpg",
+          "alt": "Premium Twin Room - Details",
+          "caption": "Premium Twin Room - Details"
+        }
+      ]
+    }
+  ]
+}

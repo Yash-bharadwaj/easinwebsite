@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans text-neutral-800 bg-white m-0 overflow-x-hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-medium text-neutral-900;
+  }
+  
+  /* Display Text - For hero sections and major headings */
+  .display-text {
+    @apply font-display font-medium tracking-tight;
+  }
+}
+
+@layer components {
+  /* Button Styles */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 text-base font-medium transition-all duration-300 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+  
+  .btn-primary {
+    @apply btn bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-600;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-secondary-900 text-white hover:bg-secondary-800 focus:ring-secondary-700;
+  }
+  
+  .btn-outline {
+    @apply btn border-2 border-primary-600 text-primary-600 bg-transparent hover:bg-primary-50 focus:ring-primary-600;
+  }
+  
+  .btn-light {
+    @apply btn bg-white text-neutral-900 hover:bg-neutral-100 focus:ring-neutral-300;
+  }
+  
+  .btn-accent {
+    @apply btn bg-red-600 text-white hover:bg-red-700 focus:ring-red-600;
+  }
+  
+  /* Card Styles */
+  .card {
+    @apply bg-white rounded-lg overflow-hidden shadow-soft transition-shadow duration-300 hover:shadow-medium;
+  }
+  
+  /* Container with luxury padding */
+  .container-luxury {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8 xl:px-12;
+  }
+  
+  /* Glass effect */
+  .glass-effect {
+    @apply bg-white/20 backdrop-blur-lg rounded-lg border border-white/20;
+  }
+  
+  /* Section spacing */
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+  
+  /* Image treatments */
+  .img-luxury {
+    @apply object-cover w-full h-full;
+  }
+}
+
+/* Custom animations beyond Tailwind */
+.reveal-bottom {
+  transform: translateY(30px);
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.reveal-left {
+  transform: translateX(-30px);
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.reveal-right {
+  transform: translateX(30px);
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.reveal-top {
+  transform: translateY(-30px);
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.reveal-scale {
+  transform: scale(0.95);
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.reveal-visible {
+  transform: translate(0) scale(1);
+  opacity: 1;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100; /* Changed from bg-light-DEFAULT to a standard Tailwind class */
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary-300 rounded-full;
+  border: 2px solid transparent;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary-400;
+}

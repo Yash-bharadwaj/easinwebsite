@@ -1,0 +1,192 @@
+{
+  "hero": {
+    "title": "A Luxurious Retreat in Hyderabad's Tech Hub",
+    "subtitle": "Experience unparalleled comfort and sophistication at Eastin Hotel Madhapur",
+    "cta": "Book Your Stay",
+    "ctaUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur",
+    "carousel": [
+      {
+        "image": "lobby",
+        "alt": "Eastin Hotel Lobby"
+      },
+      {
+        "image": "superiorKing",
+        "alt": "Superior King Room"
+      },
+      {
+        "image": "executiveSuite",
+        "alt": "Executive Suite"
+      },
+      {
+        "image": "premiumTwin",
+        "alt": "Premium Twin Room"
+      }
+    ]
+  },
+  "welcome": {
+    "title": "Your Home Away From Home",
+    "subtitle": "Welcome to a world of refined elegance",
+    "content": "Nestled in the heart of Hyderabad's vibrant Madhapur district, Eastin Hotel offers a perfect blend of modern luxury and traditional hospitality. Our hotel is designed to provide the ultimate comfort for both business travelers and tourists, with thoughtfully appointed rooms, exceptional dining options, and state-of-the-art amenities. Whether you're visiting for work or leisure, our dedicated staff ensures a stay that exceeds your expectations.",
+    "image": "welcome.jpg",
+    "imageAlt": "Eastin Hotel Lobby"
+  },
+  "byTheNumbers": {
+    "title": "Eastin By The Numbers",
+    "subtitle": "Experience luxury in numbers",
+    "items": [
+      {
+        "number": "2022",
+        "label": "Year Founded",
+        "icon": "calendar-alt"
+      },
+      {
+        "number": "96",
+        "label": "Luxury Rooms",
+        "icon": "door-open"
+      },
+      {
+        "number": "4",
+        "label": "Event Spaces",
+        "icon": "map-marker-alt"
+      },
+      {
+        "number": "450+",
+        "label": "Events Hosted",
+        "icon": "glass-cheers"
+      },
+      {
+        "number": "24/7",
+        "label": "Guest Service",
+        "icon": "concierge-bell"
+      }
+    ]
+  },
+  "features": {
+    "title": "Experience Exceptional Amenities",
+    "items": [
+      {
+        "icon": "bed",
+        "title": "Luxurious Rooms",
+        "description": "Elegantly designed rooms with premium furnishings and amenities for ultimate comfort"
+      },
+      {
+        "icon": "wifi",
+        "title": "High-Speed Wi-Fi",
+        "description": "Complimentary high-speed internet access throughout the hotel"
+      },
+      {
+        "icon": "utensils",
+        "title": "Fine Dining",
+        "description": "Indulge in exceptional culinary experiences at our on-site restaurants"
+      },
+      {
+        "icon": "business-time",
+        "title": "Business Center",
+        "description": "Fully equipped business facilities to meet all your professional needs"
+      },
+      {
+        "icon": "glass-cheers",
+        "title": "Banquet Hall",
+        "description": "Elegant banquet facilities for hosting memorable events, meetings, and celebrations"
+      },
+      {
+        "icon": "concierge-bell",
+        "title": "Concierge Service",
+        "description": "Our dedicated concierge team is available to assist with all your needs"
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Our Facilities",
+    "subtitle": "Designed for comfort, convenience, and memorable experiences",
+    "items": [
+      {
+        "title": "96 Luxury Rooms",
+        "description": "Our hotel features 96 elegantly appointed rooms and suites, each designed with your comfort in mind.",
+        "icon": "bed"
+      },
+      {
+        "title": "Indoor Banquet Hall",
+        "description": "A sophisticated venue accommodating up to 150 guests, perfect for corporate events and celebrations.",
+        "icon": "glass-cheers"
+      },
+      {
+        "title": "Executive Boardroom",
+        "description": "A state-of-the-art boardroom equipped with modern technology for meetings of up to 30 people.",
+        "icon": "briefcase"
+      },
+      {
+        "title": "Open-Air Banquet Space",
+        "description": "A stunning outdoor venue that can host up to 300 guests for weddings and grand celebrations.",
+        "icon": "umbrella-beach"
+      },
+      {
+        "title": "Rooftop Party Space",
+        "description": "An exclusive private party area with panoramic city views, ideal for intimate gatherings.",
+        "icon": "building"
+      }
+    ]
+  },
+  "roomPreview": {
+    "title": "Accommodations Tailored to Your Needs",
+    "subtitle": "Discover our range of elegantly appointed rooms and suites",
+    "cta": "View All Rooms",
+    "ctaUrl": "/rooms",
+    "featured": [
+      {
+        "name": "Superior King Room",
+        "image": "superior-king.jpg",
+        "description": "Elegant and comfortable, our Superior King rooms offer premium amenities and a king-sized bed.",
+        "url": "/rooms/superior-king"
+      },
+      {
+        "name": "Premium Room",
+        "image": "premium-room.jpg",
+        "description": "Spacious and well-appointed, featuring enhanced amenities and stunning city views.",
+        "url": "/rooms/premium-room"
+      },
+      {
+        "name": "Executive Suite",
+        "image": "executive-suite.jpg",
+        "description": "Luxurious suites with separate living area, ideal for those seeking extra space and comfort.",
+        "url": "/rooms/executive-suite"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Guest Experiences",
+    "subtitle": "What our guests say about their stay",
+    "items": [
+      {
+        "name": "Rajesh Sharma",
+        "role": "Business Traveler",
+        "avatar": "guest-1.jpg",
+        "content": "Eastin Hotel provided the perfect environment for my business trip. The high-speed internet, comfortable workspace in my room, and proximity to Hi-Tech City made my stay both productive and enjoyable.",
+        "rating": 5
+      },
+      {
+        "name": "Priya and Arun",
+        "role": "Couple",
+        "avatar": "guest-2.jpg",
+        "content": "We celebrated our anniversary at Eastin Hotel and were blown away by the attention to detail. The staff went above and beyond to make our stay special, from the room decoration to the exceptional dining experience.",
+        "rating": 5
+      },
+      {
+        "name": "Emma Williams",
+        "role": "International Tourist",
+        "avatar": "guest-3.jpg",
+        "content": "As a first-time visitor to Hyderabad, I couldn't have chosen a better place. The concierge was incredibly helpful with recommendations, and the hotel's location made it easy to explore the city. The rooms were immaculate and comfortable.",
+        "rating": 4.5
+      }
+    ]
+  },
+  "cta": {
+    "title": "Experience Luxury Today",
+    "subtitle": "Book your stay directly with us for the best rates and exclusive benefits",
+    "buttonText": "Book Now",
+    "buttonUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur",
+    "secondaryText": "Need assistance?",
+    "secondaryButtonText": "Contact Us",
+    "secondaryButtonUrl": "/contact"
+  }
+}

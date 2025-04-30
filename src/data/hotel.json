@@ -1,0 +1,31 @@
+{
+  "name": "Eastin Hotel Madhapur",
+  "shortName": "Eastin Hotel",
+  "logoText": "EASTIN",
+  "tagline": "Experience Luxury in the Heart of Hyderabad",
+  "description": "Welcome to Eastin Hotel Madhapur, where luxury meets comfort in the vibrant tech hub of Hyderabad. Our meticulously designed rooms, world-class amenities, and exceptional service ensure an unforgettable stay for both business and leisure travelers.",
+  "address": {
+    "line1": "2-52/1/3, Hitech City Rd",
+    "line2": "Phase 2, Kavuri Hills, Madhapur",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postalCode": "500081",
+    "country": "India"
+  },
+  "contact": {
+    "phone": "+91 9177426111",
+    "email": "reservations@eastinhotels.in",
+    "whatsapp": "+91 9177426111"
+  },
+  "bookingUrl": "https://be.aiosell.com/book/eastin-hotel-madhapur",
+  "socialMedia": {
+    "facebook": "https://facebook.com/eastinhotelhyderabad",
+    "instagram": "https://instagram.com/eastinhotelhyderabad",
+    "twitter": "https://twitter.com/eastinhotelhyderabad",
+    "linkedin": "https://linkedin.com/company/eastinhotelhyderabad"
+  },
+  "coordinates": {
+    "latitude": 17.4366,
+    "longitude": 78.3958
+  }
+}
